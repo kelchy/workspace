@@ -1,5 +1,5 @@
 {
-  "name": "tmp-project",
+  "name": "workspace",
   "workspaces": [
     "workspaceA",
     "workspaceB"
