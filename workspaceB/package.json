@@ -1,5 +1,5 @@
 {
-  "name": "workspaceA",
+  "name": "workspaceB",
   "dependencies": {
     "mysql": "^2.16.0"
   }
