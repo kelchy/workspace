@@ -1,3 +1,3 @@
-const a = require('workspaceA/a')
+const a = require('../workspaceA/a')
 
 a.init();
